@@ -5,3 +5,5 @@ Changes for the second commit.
 functionality1
 
 functionality2
+
+functionality3
